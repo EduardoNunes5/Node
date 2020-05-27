@@ -1,0 +1,5 @@
+http = hypertext transfer protocol, launch a server, send requests
+https = hypertext transfer protocol secure
+fs = file system
+path = constructing paths to file
+os = operating system information

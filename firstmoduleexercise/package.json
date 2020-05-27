@@ -1,0 +1,15 @@
+{
+  "name": "firstmoduleexercise",
+  "version": "1.0.0",
+  "description": "first exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Eduardo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
